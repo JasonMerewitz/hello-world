@@ -1,4 +1,4 @@
 git add <File>
 git push origin master
-git commit -m <Resp>
+git commit -m test
 git push origin master
